@@ -1,0 +1,22 @@
+_repo: Why-and-How-a-hand-book-for-the-use-of-the-WCT-unions-in-Canada_6868
+creator:
+  author:
+    agent_name: Chisholm, Addie
+    gutenberg_agent_id: '2230'
+    url: http://www.gutenberg.org/2009/agents/2230
+description: ''
+gutenberg_bookshelf: Sociology
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Temperance -- Societies, etc.'
+- !lcsh 'Woman''s Christian Temperance Union -- History'
+title: 'Why and How : a hand-book for the use of the W.C.T. unions in Canada'
+url: http://www.gutenberg.org/ebooks/6868
